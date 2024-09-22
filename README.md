@@ -24,6 +24,8 @@ Restart and then log back into DC-1 as user: mydomain.com\labuser
 Create a Domain Admin user within the domain
 —
 In Active Directory Users and Computers (ADUC), create an Organizational Unit (OU) called “_EMPLOYEES”
+![image](https://github.com/user-attachments/assets/9cfe4694-e86e-43af-91d1-fe8f9e7cb694)
+
 Create a new OU named “_ADMINS”
 Create a new employee named “Jane Doe” (same password) with the username of “jane_admin” / Cyberlab123!
 Add jane_admin to the “Domain Admins” Security Group
