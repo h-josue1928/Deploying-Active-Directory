@@ -20,6 +20,8 @@ continue to prerequisites check, then install
 ![image](https://github.com/user-attachments/assets/972fc1a5-eac0-4681-a379-d0a87feaa22b)
 Restart and then log back into DC-1 as user: mydomain.com\labuser
 ![image](https://github.com/user-attachments/assets/0224e2f6-81ca-4008-acec-f00e7971e374)
+![image](https://github.com/user-attachments/assets/d28bf0da-8079-4453-888f-d07a5bf1d175)
+
 
 Create a Domain Admin user within the domain
 —
@@ -27,6 +29,8 @@ In Active Directory Users and Computers (ADUC), create an Organizational Unit (O
 ![image](https://github.com/user-attachments/assets/9cfe4694-e86e-43af-91d1-fe8f9e7cb694)
 
 Create a new OU named “_ADMINS”
+![image](https://github.com/user-attachments/assets/f052d88c-5886-4696-8156-5405de563d6b)
+
 Create a new employee named “Jane Doe” (same password) with the username of “jane_admin” / Cyberlab123!
 Add jane_admin to the “Domain Admins” Security Group
 Log out / close the connection to DC-1 and log back in as “mydomain.com\jane_admin”
