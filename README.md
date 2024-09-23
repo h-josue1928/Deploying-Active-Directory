@@ -52,7 +52,10 @@ Create a new OU named “_ADMINS”
 ![image](https://github.com/user-attachments/assets/f052d88c-5886-4696-8156-5405de563d6b)
 
 Create a new employee named “Jane Doe” (same password) with the username of “jane_admin” / Cyberlab123!
+![image](https://github.com/user-attachments/assets/28e736c6-91e8-4e41-89e0-9951d7b826d6)
+
 Add jane_admin to the “Domain Admins” Security Group
+![image](https://github.com/user-attachments/assets/211c04e4-2429-4c3a-9c48-6ca7a9cfcc77)
 Log out / close the connection to DC-1 and log back in as “mydomain.com\jane_admin”
 User jane_admin as your admin account from now on
 
