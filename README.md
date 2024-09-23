@@ -65,5 +65,12 @@ Join Client-1 to your domain (mydomain.com)
 From the Azure Portal, set Client-1’s DNS settings to the DC’s Private IP address (Already done)
 From the Azure Portal, restart Client-1 (Already done)
 Login to Client-1 as the original local admin (labuser) and join it to the domain (computer will restart)
+
+![image](https://github.com/user-attachments/assets/31da89e6-7e46-4f2b-9be2-9c5b85db2743)
+
 Login to the Domain Controller and verify Client-1 shows up in ADUC
 Create a new OU named “_CLIENTS” and drag Client-1 into there
+
+![image](https://github.com/user-attachments/assets/b26d3144-7d86-42b9-a1a7-151aeb08e367)
+
+
