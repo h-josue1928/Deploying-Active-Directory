@@ -41,7 +41,7 @@ Restart and then log back into DC-1 as user: mydomain.com\labuser
 
 Create a Domain Admin user within the domain
 —
-In Active Directory Users and Computers (ADUC), create an Organizational Unit (OU) called “_EMPLOYEES”
+ create an Organizational unit called _EMPLOYEES
 
 ![image](https://github.com/user-attachments/assets/9cfe4694-e86e-43af-91d1-fe8f9e7cb694)
 
